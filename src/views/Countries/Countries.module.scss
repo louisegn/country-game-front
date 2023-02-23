@@ -1,0 +1,35 @@
+.container {
+  display: flex;
+  .country-list {
+    width: 20%;
+    height: calc(100vh - 200px);
+    border: black solid 1px;
+    overflow: scroll;
+    overflow-x: scroll;
+    -ms-overflow-style: none; /* IE and Edge */
+    scrollbar-width: none; /* Firefox */
+
+    /* For Chrome */
+    .div2::-webkit-scrollbar {
+      display: none;
+    }
+
+    .country-name {
+      box-sizing: border-box;
+      border: solid #a8a29e 1px;
+      //   border-radius: 3px;
+      //   padding: 6px 0 6px 20px;
+      height: 40px;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+    }
+    .country-name:hover {
+      cursor: pointer;
+      background-color: #e7e5e4;
+    }
+  }
+  .country-details {
+    width: 80%;
+  }
+}

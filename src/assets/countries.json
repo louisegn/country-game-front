@@ -1,0 +1,1381 @@
+{
+  "Afghanistan": {
+    "NOM_ALPHA": "Afghanistan",
+    "CODE": "AFG",
+    "ARTICLE": "l'",
+    "NOM_LONG": "République islamique d'Afghanistan",
+    "CAPITALE": "Kaboul"
+  },
+  "Afrique du Sud": {
+    "NOM_ALPHA": "Afrique du Sud",
+    "CODE": "ZAF",
+    "ARTICLE": "l'",
+    "NOM_LONG": "République d'Afrique du Sud",
+    "CAPITALE": "Prétoria"
+  },
+  "Albanie": {
+    "NOM_ALPHA": "Albanie",
+    "CODE": "ALB",
+    "ARTICLE": "l'",
+    "NOM_LONG": "République d'Albanie",
+    "CAPITALE": "Tirana"
+  },
+  "Algérie": {
+    "NOM_ALPHA": "Algérie",
+    "CODE": "DZA",
+    "ARTICLE": "l'",
+    "NOM_LONG": "République algérienne démocratique et populaire",
+    "CAPITALE": "Alger"
+  },
+  "Allemagne": {
+    "NOM_ALPHA": "Allemagne",
+    "CODE": "DEU",
+    "ARTICLE": "l'",
+    "NOM_LONG": "République fédérale d'Allemagne",
+    "CAPITALE": "Berlin"
+  },
+  "Andorre": {
+    "NOM_ALPHA": "Andorre",
+    "CODE": "AND",
+    "ARTICLE": "l'",
+    "NOM_LONG": "Principauté d'Andorre",
+    "CAPITALE": "Andorre-la-Vieille"
+  },
+  "Angola": {
+    "NOM_ALPHA": "Angola",
+    "CODE": "AGO",
+    "ARTICLE": "l'",
+    "NOM_LONG": "République d'Angola",
+    "CAPITALE": "Luanda"
+  },
+  "Antigua-et-Barbuda": {
+    "NOM_ALPHA": "Antigua-et-Barbuda",
+    "CODE": "ATG",
+    "ARTICLE": "",
+    "NOM_LONG": "Antigua-et-Barbuda",
+    "CAPITALE": "Saint John's"
+  },
+  "Arabie saoudite": {
+    "NOM_ALPHA": "Arabie saoudite",
+    "CODE": "SAU",
+    "ARTICLE": "l'",
+    "NOM_LONG": "Royaume d'Arabie saoudite",
+    "CAPITALE": "Riyad"
+  },
+  "Argentine": {
+    "NOM_ALPHA": "Argentine",
+    "CODE": "ARG",
+    "ARTICLE": "l'",
+    "NOM_LONG": "République argentine",
+    "CAPITALE": "Buenos Aires"
+  },
+  "Arménie": {
+    "NOM_ALPHA": "Arménie",
+    "CODE": "ARM",
+    "ARTICLE": "l'",
+    "NOM_LONG": "République d'Arménie",
+    "CAPITALE": "Erevan"
+  },
+  "Australie": {
+    "NOM_ALPHA": "Australie",
+    "CODE": "AUS",
+    "ARTICLE": "l'",
+    "NOM_LONG": "Commonwealth d'Australie",
+    "CAPITALE": "Canberra"
+  },
+  "Autriche": {
+    "NOM_ALPHA": "Autriche",
+    "CODE": "AUT",
+    "ARTICLE": "l'",
+    "NOM_LONG": "République d'Autriche",
+    "CAPITALE": "Vienne"
+  },
+  "Azerbaédjan": {
+    "NOM_ALPHA": "Azerbaédjan",
+    "CODE": "AZE",
+    "ARTICLE": "l'",
+    "NOM_LONG": "République d'Azerbaédjan",
+    "CAPITALE": "Bakou"
+  },
+  "Bahamas": {
+    "NOM_ALPHA": "Bahamas",
+    "CODE": "BHS",
+    "ARTICLE": "les",
+    "NOM_LONG": "Commonwealth des Bahamas",
+    "CAPITALE": "Nassau"
+  },
+  "Bahreén": {
+    "NOM_ALPHA": "Bahreén",
+    "CODE": "BHR",
+    "ARTICLE": "",
+    "NOM_LONG": "Royaume de Bahreén",
+    "CAPITALE": "Manama"
+  },
+  "Bangladesh": {
+    "NOM_ALPHA": "Bangladesh",
+    "CODE": "BGD",
+    "ARTICLE": "l'",
+    "NOM_LONG": "République populaire du Bangladesh",
+    "CAPITALE": "Dacca"
+  },
+  "Barbade": {
+    "NOM_ALPHA": "Barbade",
+    "CODE": "BRB",
+    "ARTICLE": "la",
+    "NOM_LONG": "Barbade",
+    "CAPITALE": "Bridgetown"
+  },
+  "Belgique": {
+    "NOM_ALPHA": "Belgique",
+    "CODE": "BEL",
+    "ARTICLE": "la",
+    "NOM_LONG": "Royaume de Belgique",
+    "CAPITALE": "Bruxelles"
+  },
+  "Bélize": {
+    "NOM_ALPHA": "Bélize",
+    "CODE": "BLZ",
+    "ARTICLE": "le",
+    "NOM_LONG": "Bélize",
+    "CAPITALE": "Belmopan"
+  },
+  "Bénin": {
+    "NOM_ALPHA": "Bénin",
+    "CODE": "BEN",
+    "ARTICLE": "le",
+    "NOM_LONG": "République du Bénin",
+    "CAPITALE": "Porto-Novo"
+  },
+  "Bhoutan": {
+    "NOM_ALPHA": "Bhoutan",
+    "CODE": "BTN",
+    "ARTICLE": "le",
+    "NOM_LONG": "Royaume du Bhoutan",
+    "CAPITALE": "Thimphou"
+  },
+  "Biélorussie": {
+    "NOM_ALPHA": "Biélorussie",
+    "CODE": "BLR",
+    "ARTICLE": "la",
+    "NOM_LONG": "République de Biélorussie",
+    "CAPITALE": "Minsk"
+  },
+  "Birmanie": {
+    "NOM_ALPHA": "Birmanie",
+    "CODE": "MMR",
+    "ARTICLE": "la",
+    "NOM_LONG": "République de l'Union de Birmanie",
+    "CAPITALE": "Naypyidaw"
+  },
+  "Bolivie": {
+    "NOM_ALPHA": "Bolivie",
+    "CODE": "BOL",
+    "ARTICLE": "la",
+    "NOM_LONG": "État plurinational de Bolivie",
+    "CAPITALE": "Sucre / La Paz"
+  },
+  "Bosnie-Herzégovine": {
+    "NOM_ALPHA": "Bosnie-Herzégovine",
+    "CODE": "BIH",
+    "ARTICLE": "la",
+    "NOM_LONG": "Bosnie-Herzégovine",
+    "CAPITALE": "Sarajevo"
+  },
+  "Botswana": {
+    "NOM_ALPHA": "Botswana",
+    "CODE": "BWA",
+    "ARTICLE": "le",
+    "NOM_LONG": "République du Botswana",
+    "CAPITALE": "Gaborone"
+  },
+  "Brésil": {
+    "NOM_ALPHA": "Brésil",
+    "CODE": "BRA",
+    "ARTICLE": "le",
+    "NOM_LONG": "République fédérative du Brésil",
+    "CAPITALE": "Brasilia"
+  },
+  "Brunei": {
+    "NOM_ALPHA": "Brunei",
+    "CODE": "BRN",
+    "ARTICLE": "le",
+    "NOM_LONG": "Brunei Darussalam",
+    "CAPITALE": "Bandar Seri Begawan"
+  },
+  "Bulgarie": {
+    "NOM_ALPHA": "Bulgarie",
+    "CODE": "BGR",
+    "ARTICLE": "la",
+    "NOM_LONG": "République de Bulgarie",
+    "CAPITALE": "Sofia"
+  },
+  "Burkina": {
+    "NOM_ALPHA": "Burkina",
+    "CODE": "BFA",
+    "ARTICLE": "le",
+    "NOM_LONG": "Burkina Faso",
+    "CAPITALE": "Ouagadougou"
+  },
+  "Burundi": {
+    "NOM_ALPHA": "Burundi",
+    "CODE": "BDI",
+    "ARTICLE": "le",
+    "NOM_LONG": "République du Burundi",
+    "CAPITALE": "Gitega"
+  },
+  "Cambodge": {
+    "NOM_ALPHA": "Cambodge",
+    "CODE": "KHM",
+    "ARTICLE": "le",
+    "NOM_LONG": "Royaume du Cambodge",
+    "CAPITALE": "Phnom Penh"
+  },
+  "Cameroun": {
+    "NOM_ALPHA": "Cameroun",
+    "CODE": "CMR",
+    "ARTICLE": "le",
+    "NOM_LONG": "République du Cameroun",
+    "CAPITALE": "Yaoundé"
+  },
+  "Canada": {
+    "NOM_ALPHA": "Canada",
+    "CODE": "CAN",
+    "ARTICLE": "le",
+    "NOM_LONG": "Canada",
+    "CAPITALE": "Ottawa"
+  },
+  "Cap-Vert": {
+    "NOM_ALPHA": "Cap-Vert",
+    "CODE": "CPV",
+    "ARTICLE": "le",
+    "NOM_LONG": "République du Cap-Vert",
+    "CAPITALE": "Praia"
+  },
+  "Centrafrique": {
+    "NOM_ALPHA": "Centrafrique",
+    "CODE": "CAF",
+    "ARTICLE": "la",
+    "NOM_LONG": "République centrafricaine",
+    "CAPITALE": "Bangui"
+  },
+  "Chili": {
+    "NOM_ALPHA": "Chili",
+    "CODE": "CHL",
+    "ARTICLE": "le",
+    "NOM_LONG": "République du Chili",
+    "CAPITALE": "Santiago"
+  },
+  "Chine": {
+    "NOM_ALPHA": "Chine",
+    "CODE": "CHN",
+    "ARTICLE": "la",
+    "NOM_LONG": "République populaire de Chine",
+    "CAPITALE": "Pékin"
+  },
+  "Chypre": {
+    "NOM_ALPHA": "Chypre",
+    "CODE": "CYP",
+    "ARTICLE": "",
+    "NOM_LONG": "République de Chypre",
+    "CAPITALE": "Nicosie"
+  },
+  "Colombie": {
+    "NOM_ALPHA": "Colombie",
+    "CODE": "COL",
+    "ARTICLE": "la",
+    "NOM_LONG": "République de Colombie",
+    "CAPITALE": "Bogota"
+  },
+  "Comores": {
+    "NOM_ALPHA": "Comores",
+    "CODE": "COM",
+    "ARTICLE": "les",
+    "NOM_LONG": "Union des Comores",
+    "CAPITALE": "Moroni"
+  },
+  "Congo": {
+    "NOM_ALPHA": "Congo",
+    "CODE": "COG",
+    "ARTICLE": "le",
+    "NOM_LONG": "République du Congo",
+    "CAPITALE": "Brazzaville"
+  },
+  "République démocratique du Congo": {
+    "NOM_ALPHA": "Congo (République démocratique du)",
+    "CODE": "COD",
+    "ARTICLE": "la",
+    "NOM_LONG": "République démocratique du Congo",
+    "CAPITALE": "Kinshasa"
+  },
+  "Éles Cook": {
+    "NOM_ALPHA": "Cook (éles)",
+    "CODE": "COK",
+    "ARTICLE": "les",
+    "NOM_LONG": "Éles Cook",
+    "CAPITALE": "Avarua"
+  },
+  "Corée du Nord": {
+    "NOM_ALPHA": "Corée du Nord",
+    "CODE": "PRK",
+    "ARTICLE": "la",
+    "NOM_LONG": "République populaire démocratique de Corée",
+    "CAPITALE": "Pyongyang"
+  },
+  "Corée du Sud": {
+    "NOM_ALPHA": "Corée du Sud",
+    "CODE": "KOR",
+    "ARTICLE": "la",
+    "NOM_LONG": "République de Corée",
+    "CAPITALE": "Séoul"
+  },
+  "Costa Rica": {
+    "NOM_ALPHA": "Costa Rica",
+    "CODE": "CRI",
+    "ARTICLE": "le",
+    "NOM_LONG": "République du Costa Rica",
+    "CAPITALE": "San José"
+  },
+  "Céte d'Ivoire": {
+    "NOM_ALPHA": "Céte d'Ivoire",
+    "CODE": "CIV",
+    "ARTICLE": "la",
+    "NOM_LONG": "République de Céte d'Ivoire",
+    "CAPITALE": "Yamoussoukro"
+  },
+  "Croatie": {
+    "NOM_ALPHA": "Croatie",
+    "CODE": "HRV",
+    "ARTICLE": "la",
+    "NOM_LONG": "République de Croatie",
+    "CAPITALE": "Zagreb"
+  },
+  "Cuba": {
+    "NOM_ALPHA": "Cuba",
+    "CODE": "CUB",
+    "ARTICLE": "",
+    "NOM_LONG": "République de Cuba",
+    "CAPITALE": "La Havane"
+  },
+  "Danemark": {
+    "NOM_ALPHA": "Danemark",
+    "CODE": "DNK",
+    "ARTICLE": "le",
+    "NOM_LONG": "Royaume du Danemark",
+    "CAPITALE": "Copenhague"
+  },
+  "Djibouti": {
+    "NOM_ALPHA": "Djibouti",
+    "CODE": "DJI",
+    "ARTICLE": "le",
+    "NOM_LONG": "République de Djibouti",
+    "CAPITALE": "Djibouti"
+  },
+  "République dominicaine": {
+    "NOM_ALPHA": "Dominicaine (République)",
+    "CODE": "DOM",
+    "ARTICLE": "la",
+    "NOM_LONG": "République dominicaine",
+    "CAPITALE": "Saint-Domingue"
+  },
+  "Dominique": {
+    "NOM_ALPHA": "Dominique",
+    "CODE": "DMA",
+    "ARTICLE": "la",
+    "NOM_LONG": "Commonwealth de la Dominique",
+    "CAPITALE": "Roseau"
+  },
+  "Égypte": {
+    "NOM_ALPHA": "Égypte",
+    "CODE": "EGY",
+    "ARTICLE": "l'",
+    "NOM_LONG": "République arabe d'égypte",
+    "CAPITALE": "Le Caire"
+  },
+  "Émirats arabes unis": {
+    "NOM_ALPHA": "Émirats arabes unis",
+    "CODE": "ARE",
+    "ARTICLE": "les",
+    "NOM_LONG": "Émirats arabes unis",
+    "CAPITALE": "Abou Dabi"
+  },
+  "Équateur": {
+    "NOM_ALPHA": "Équateur",
+    "CODE": "ECU",
+    "ARTICLE": "l'",
+    "NOM_LONG": "République d'équateur",
+    "CAPITALE": "Quito"
+  },
+  "Érythrée": {
+    "NOM_ALPHA": "Érythrée",
+    "CODE": "ERI",
+    "ARTICLE": "l'",
+    "NOM_LONG": "État d'érythrée",
+    "CAPITALE": "Asmara"
+  },
+  "Espagne": {
+    "NOM_ALPHA": "Espagne",
+    "CODE": "ESP",
+    "ARTICLE": "l'",
+    "NOM_LONG": "Royaume d'Espagne",
+    "CAPITALE": "Madrid"
+  },
+  "Estonie": {
+    "NOM_ALPHA": "Estonie",
+    "CODE": "EST",
+    "ARTICLE": "l'",
+    "NOM_LONG": "République d'Estonie",
+    "CAPITALE": "Tallinn"
+  },
+  "Eswatini": {
+    "NOM_ALPHA": "Eswatini",
+    "CODE": "SWZ",
+    "ARTICLE": "le",
+    "NOM_LONG": "Royaume d'Eswatini",
+    "CAPITALE": "Mbabané"
+  },
+  "États-Unis": {
+    "NOM_ALPHA": "États-Unis",
+    "CODE": "USA",
+    "ARTICLE": "les",
+    "NOM_LONG": "États-Unis d'Amérique",
+    "CAPITALE": "Washington"
+  },
+  "Éthiopie": {
+    "NOM_ALPHA": "Éthiopie",
+    "CODE": "ETH",
+    "ARTICLE": "l'",
+    "NOM_LONG": "République démocratique fédérale d'éthiopie",
+    "CAPITALE": "Addis Abeba"
+  },
+  "Fidji": {
+    "NOM_ALPHA": "Fidji",
+    "CODE": "FJI",
+    "ARTICLE": "les",
+    "NOM_LONG": "République des Fidji",
+    "CAPITALE": "Suva"
+  },
+  "Finlande": {
+    "NOM_ALPHA": "Finlande",
+    "CODE": "FIN",
+    "ARTICLE": "la",
+    "NOM_LONG": "République de Finlande",
+    "CAPITALE": "Helsinki"
+  },
+  "France": {
+    "NOM_ALPHA": "France",
+    "CODE": "FRA",
+    "ARTICLE": "la",
+    "NOM_LONG": "République franéaise",
+    "CAPITALE": "Paris"
+  },
+  "Gabon": {
+    "NOM_ALPHA": "Gabon",
+    "CODE": "GAB",
+    "ARTICLE": "le",
+    "NOM_LONG": "République gabonaise",
+    "CAPITALE": "Libreville"
+  },
+  "Gambie": {
+    "NOM_ALPHA": "Gambie",
+    "CODE": "GMB",
+    "ARTICLE": "la",
+    "NOM_LONG": "République de Gambie",
+    "CAPITALE": "Banjul"
+  },
+  "Géorgie": {
+    "NOM_ALPHA": "Géorgie",
+    "CODE": "GEO",
+    "ARTICLE": "la",
+    "NOM_LONG": "Géorgie",
+    "CAPITALE": "Tbilissi"
+  },
+  "Ghana": {
+    "NOM_ALPHA": "Ghana",
+    "CODE": "GHA",
+    "ARTICLE": "le",
+    "NOM_LONG": "République du Ghana",
+    "CAPITALE": "Accra"
+  },
+  "Gréce": {
+    "NOM_ALPHA": "Gréce",
+    "CODE": "GRC",
+    "ARTICLE": "la",
+    "NOM_LONG": "République hellénique",
+    "CAPITALE": "Athénes"
+  },
+  "Grenade": {
+    "NOM_ALPHA": "Grenade",
+    "CODE": "GRD",
+    "ARTICLE": "la",
+    "NOM_LONG": "Grenade",
+    "CAPITALE": "Saint-Georges"
+  },
+  "Guatémala": {
+    "NOM_ALPHA": "Guatémala",
+    "CODE": "GTM",
+    "ARTICLE": "le",
+    "NOM_LONG": "République du Guatémala",
+    "CAPITALE": "Guatémala"
+  },
+  "Guinée": {
+    "NOM_ALPHA": "Guinée",
+    "CODE": "GIN",
+    "ARTICLE": "la",
+    "NOM_LONG": "République de Guinée",
+    "CAPITALE": "Conakry"
+  },
+  "Guinée équatoriale": {
+    "NOM_ALPHA": "Guinée équatoriale",
+    "CODE": "GNQ",
+    "ARTICLE": "la",
+    "NOM_LONG": "République de Guinée équatoriale",
+    "CAPITALE": "Malabo"
+  },
+  "Guinée-Bissao": {
+    "NOM_ALPHA": "Guinée-Bissao",
+    "CODE": "GNB",
+    "ARTICLE": "la",
+    "NOM_LONG": "République de Guinée-Bissao",
+    "CAPITALE": "Bissao"
+  },
+  "Guyana": {
+    "NOM_ALPHA": "Guyana",
+    "CODE": "GUY",
+    "ARTICLE": "le",
+    "NOM_LONG": "République coopérative du Guyana",
+    "CAPITALE": "Georgetown"
+  },
+  "Haéti": {
+    "NOM_ALPHA": "Haéti",
+    "CODE": "HTI",
+    "ARTICLE": "",
+    "NOM_LONG": "République d'Haéti",
+    "CAPITALE": "Port-au-Prince"
+  },
+  "Honduras": {
+    "NOM_ALPHA": "Honduras",
+    "CODE": "HND",
+    "ARTICLE": "le",
+    "NOM_LONG": "République du Honduras",
+    "CAPITALE": "Tégucigalpa"
+  },
+  "Hongrie": {
+    "NOM_ALPHA": "Hongrie",
+    "CODE": "HUN",
+    "ARTICLE": "la",
+    "NOM_LONG": "Hongrie",
+    "CAPITALE": "Budapest"
+  },
+  "Inde": {
+    "NOM_ALPHA": "Inde",
+    "CODE": "IND",
+    "ARTICLE": "l'",
+    "NOM_LONG": "République de l'Inde",
+    "CAPITALE": "New Delhi"
+  },
+  "Indonésie": {
+    "NOM_ALPHA": "Indonésie",
+    "CODE": "IDN",
+    "ARTICLE": "l'",
+    "NOM_LONG": "République d'Indonésie",
+    "CAPITALE": "Jakarta"
+  },
+  "Irak": {
+    "NOM_ALPHA": "Irak",
+    "CODE": "IRQ",
+    "ARTICLE": "l'",
+    "NOM_LONG": "République d'Irak",
+    "CAPITALE": "Bagdad"
+  },
+  "Iran": {
+    "NOM_ALPHA": "Iran",
+    "CODE": "IRN",
+    "ARTICLE": "l'",
+    "NOM_LONG": "République islamique d'Iran",
+    "CAPITALE": "Téhéran"
+  },
+  "Irlande": {
+    "NOM_ALPHA": "Irlande",
+    "CODE": "IRL",
+    "ARTICLE": "l'",
+    "NOM_LONG": "Irlande",
+    "CAPITALE": "Dublin"
+  },
+  "Islande": {
+    "NOM_ALPHA": "Islande",
+    "CODE": "ISL",
+    "ARTICLE": "l'",
+    "NOM_LONG": "République d'Islande",
+    "CAPITALE": "Reykjavik"
+  },
+  "Israél": {
+    "NOM_ALPHA": "Israél",
+    "CODE": "ISR",
+    "ARTICLE": "",
+    "NOM_LONG": "État d'Israél",
+    "CAPITALE": ""
+  },
+  "Italie": {
+    "NOM_ALPHA": "Italie",
+    "CODE": "ITA",
+    "ARTICLE": "l'",
+    "NOM_LONG": "République italienne",
+    "CAPITALE": "Rome"
+  },
+  "Jamaéque": {
+    "NOM_ALPHA": "Jamaéque",
+    "CODE": "JAM",
+    "ARTICLE": "la",
+    "NOM_LONG": "Jamaéque",
+    "CAPITALE": "Kingston"
+  },
+  "Japon": {
+    "NOM_ALPHA": "Japon",
+    "CODE": "JPN",
+    "ARTICLE": "le",
+    "NOM_LONG": "Japon",
+    "CAPITALE": "Tokyo"
+  },
+  "Jordanie": {
+    "NOM_ALPHA": "Jordanie",
+    "CODE": "JOR",
+    "ARTICLE": "la",
+    "NOM_LONG": "Royaume hachémite de Jordanie",
+    "CAPITALE": "Amman"
+  },
+  "Kazakhstan": {
+    "NOM_ALPHA": "Kazakhstan",
+    "CODE": "KAZ",
+    "ARTICLE": "le",
+    "NOM_LONG": "République du Kazakhstan",
+    "CAPITALE": "Nour-Soultan"
+  },
+  "Kénya": {
+    "NOM_ALPHA": "Kénya",
+    "CODE": "KEN",
+    "ARTICLE": "le",
+    "NOM_LONG": "République du Kénya",
+    "CAPITALE": "Nairobi"
+  },
+  "Kirghizstan": {
+    "NOM_ALPHA": "Kirghizstan",
+    "CODE": "KGZ",
+    "ARTICLE": "le",
+    "NOM_LONG": "République kirghize",
+    "CAPITALE": "Bichkek"
+  },
+  "Kiribati": {
+    "NOM_ALPHA": "Kiribati",
+    "CODE": "KIR",
+    "ARTICLE": "les",
+    "NOM_LONG": "République des Kiribati",
+    "CAPITALE": "Bairiki"
+  },
+  "Kosovo": {
+    "NOM_ALPHA": "Kosovo",
+    "CODE": "KOS",
+    "ARTICLE": "le",
+    "NOM_LONG": "République du Kosovo",
+    "CAPITALE": "Pristina"
+  },
+  "Koweét": {
+    "NOM_ALPHA": "Koweét",
+    "CODE": "KWT",
+    "ARTICLE": "le",
+    "NOM_LONG": "État du Koweét",
+    "CAPITALE": "Koweét"
+  },
+  "Laos": {
+    "NOM_ALPHA": "Laos",
+    "CODE": "LAO",
+    "ARTICLE": "le",
+    "NOM_LONG": "République démocratique populaire lao",
+    "CAPITALE": "Vientiane"
+  },
+  "Lésotho": {
+    "NOM_ALPHA": "Lésotho",
+    "CODE": "LSO",
+    "ARTICLE": "le",
+    "NOM_LONG": "Royaume du Lesotho",
+    "CAPITALE": "Maséru"
+  },
+  "Lettonie": {
+    "NOM_ALPHA": "Lettonie",
+    "CODE": "LVA",
+    "ARTICLE": "la",
+    "NOM_LONG": "République de Lettonie",
+    "CAPITALE": "Riga"
+  },
+  "Liban": {
+    "NOM_ALPHA": "Liban",
+    "CODE": "LBN",
+    "ARTICLE": "le",
+    "NOM_LONG": "République libanaise",
+    "CAPITALE": "Beyrouth"
+  },
+  "Libéria": {
+    "NOM_ALPHA": "Libéria",
+    "CODE": "LBR",
+    "ARTICLE": "le",
+    "NOM_LONG": "République du Libéria",
+    "CAPITALE": "Monrovia"
+  },
+  "Libye": {
+    "NOM_ALPHA": "Libye",
+    "CODE": "LBY",
+    "ARTICLE": "la",
+    "NOM_LONG": "État de Libye",
+    "CAPITALE": "Tripoli"
+  },
+  "Liechtenstein": {
+    "NOM_ALPHA": "Liechtenstein",
+    "CODE": "LIE",
+    "ARTICLE": "le",
+    "NOM_LONG": "Principauté du Liechtenstein",
+    "CAPITALE": "Vaduz"
+  },
+  "Lituanie": {
+    "NOM_ALPHA": "Lituanie",
+    "CODE": "LTU",
+    "ARTICLE": "la",
+    "NOM_LONG": "République de Lituanie",
+    "CAPITALE": "Vilnius"
+  },
+  "Luxembourg": {
+    "NOM_ALPHA": "Luxembourg",
+    "CODE": "LUX",
+    "ARTICLE": "le",
+    "NOM_LONG": "Grand-Duché de Luxembourg",
+    "CAPITALE": "Luxembourg"
+  },
+  "Macédoine du Nord": {
+    "NOM_ALPHA": "Macédoine du Nord",
+    "CODE": "MKD",
+    "ARTICLE": "l'",
+    "NOM_LONG": "République de Macédoine du Nord",
+    "CAPITALE": "Skopje"
+  },
+  "Madagascar": {
+    "NOM_ALPHA": "Madagascar",
+    "CODE": "MDG",
+    "ARTICLE": "",
+    "NOM_LONG": "République de Madagascar",
+    "CAPITALE": "Antananarivo (Tananarive)"
+  },
+  "Malaisie": {
+    "NOM_ALPHA": "Malaisie",
+    "CODE": "MYS",
+    "ARTICLE": "la",
+    "NOM_LONG": "Malaisie",
+    "CAPITALE": "Kuala Lumpur"
+  },
+  "Malawi": {
+    "NOM_ALPHA": "Malawi",
+    "CODE": "MWI",
+    "ARTICLE": "le",
+    "NOM_LONG": "République du Malawi",
+    "CAPITALE": "Lilongwé"
+  },
+  "Maldives": {
+    "NOM_ALPHA": "Maldives",
+    "CODE": "MDV",
+    "ARTICLE": "les",
+    "NOM_LONG": "République des Maldives",
+    "CAPITALE": "Malé"
+  },
+  "Mali": {
+    "NOM_ALPHA": "Mali",
+    "CODE": "MLI",
+    "ARTICLE": "le",
+    "NOM_LONG": "République du Mali",
+    "CAPITALE": "Bamako"
+  },
+  "Malte": {
+    "NOM_ALPHA": "Malte",
+    "CODE": "MLT",
+    "ARTICLE": "",
+    "NOM_LONG": "République de Malte",
+    "CAPITALE": "La Valette"
+  },
+  "Maroc": {
+    "NOM_ALPHA": "Maroc",
+    "CODE": "MAR",
+    "ARTICLE": "le",
+    "NOM_LONG": "Royaume du Maroc",
+    "CAPITALE": "Rabat"
+  },
+  "Éles Marshall": {
+    "NOM_ALPHA": "Marshall (éles)",
+    "CODE": "MHL",
+    "ARTICLE": "les",
+    "NOM_LONG": "République des éles Marshall",
+    "CAPITALE": "Delap-Uliga-Darrit"
+  },
+  "Maurice": {
+    "NOM_ALPHA": "Maurice",
+    "CODE": "MUS",
+    "ARTICLE": "",
+    "NOM_LONG": "République de Maurice",
+    "CAPITALE": "Port-Louis"
+  },
+  "Mauritanie": {
+    "NOM_ALPHA": "Mauritanie",
+    "CODE": "MRT",
+    "ARTICLE": "la",
+    "NOM_LONG": "République islamique de Mauritanie",
+    "CAPITALE": "Nouakchott"
+  },
+  "Mexique": {
+    "NOM_ALPHA": "Mexique",
+    "CODE": "MEX",
+    "ARTICLE": "le",
+    "NOM_LONG": "États-Unis du Mexique",
+    "CAPITALE": "Mexico"
+  },
+  "Micronésie": {
+    "NOM_ALPHA": "Micronésie",
+    "CODE": "FSM",
+    "ARTICLE": "la",
+    "NOM_LONG": "États fédérés de Micronésie",
+    "CAPITALE": "Palikir"
+  },
+  "Moldavie": {
+    "NOM_ALPHA": "Moldavie",
+    "CODE": "MDA",
+    "ARTICLE": "la",
+    "NOM_LONG": "République de Moldavie",
+    "CAPITALE": "Chisinau"
+  },
+  "Monaco": {
+    "NOM_ALPHA": "Monaco",
+    "CODE": "MCO",
+    "ARTICLE": "",
+    "NOM_LONG": "Principauté de Monaco",
+    "CAPITALE": "Monaco"
+  },
+  "Mongolie": {
+    "NOM_ALPHA": "Mongolie",
+    "CODE": "MNG",
+    "ARTICLE": "la",
+    "NOM_LONG": "Mongolie",
+    "CAPITALE": "Oulan-Bator"
+  },
+  "Monténégro": {
+    "NOM_ALPHA": "Monténégro",
+    "CODE": "MNE",
+    "ARTICLE": "le",
+    "NOM_LONG": "Monténégro",
+    "CAPITALE": "Podgorica"
+  },
+  "Mozambique": {
+    "NOM_ALPHA": "Mozambique",
+    "CODE": "MOZ",
+    "ARTICLE": "le",
+    "NOM_LONG": "République du Mozambique",
+    "CAPITALE": "Maputo"
+  },
+  "Namibie": {
+    "NOM_ALPHA": "Namibie",
+    "CODE": "NAM",
+    "ARTICLE": "la",
+    "NOM_LONG": "République de Namibie",
+    "CAPITALE": "Windhoek"
+  },
+  "Nauru": {
+    "NOM_ALPHA": "Nauru",
+    "CODE": "NRU",
+    "ARTICLE": "",
+    "NOM_LONG": "République de Nauru",
+    "CAPITALE": "Yaren"
+  },
+  "Népal": {
+    "NOM_ALPHA": "Népal",
+    "CODE": "NPL",
+    "ARTICLE": "le",
+    "NOM_LONG": "République démocratique fédérale du Népal",
+    "CAPITALE": "Katmandou"
+  },
+  "Nicaragua": {
+    "NOM_ALPHA": "Nicaragua",
+    "CODE": "NIC",
+    "ARTICLE": "le",
+    "NOM_LONG": "République du Nicaragua",
+    "CAPITALE": "Managua"
+  },
+  "Niger": {
+    "NOM_ALPHA": "Niger",
+    "CODE": "NER",
+    "ARTICLE": "le",
+    "NOM_LONG": "République du Niger",
+    "CAPITALE": "Niamey"
+  },
+  "Nigéria": {
+    "NOM_ALPHA": "Nigéria",
+    "CODE": "NGA",
+    "ARTICLE": "le",
+    "NOM_LONG": "République fédérale du Nigéria",
+    "CAPITALE": "Abuja"
+  },
+  "Niue": {
+    "NOM_ALPHA": "Niue",
+    "CODE": "NIU",
+    "ARTICLE": "",
+    "NOM_LONG": "Niue",
+    "CAPITALE": "Alofi"
+  },
+  "Norvége": {
+    "NOM_ALPHA": "Norvége",
+    "CODE": "NOR",
+    "ARTICLE": "la",
+    "NOM_LONG": "Royaume de Norvége",
+    "CAPITALE": "Oslo"
+  },
+  "Nouvelle-Zélande": {
+    "NOM_ALPHA": "Nouvelle-Zélande",
+    "CODE": "NZL",
+    "ARTICLE": "la",
+    "NOM_LONG": "Nouvelle-Zélande",
+    "CAPITALE": "Wellington"
+  },
+  "Oman": {
+    "NOM_ALPHA": "Oman",
+    "CODE": "OMN",
+    "ARTICLE": "",
+    "NOM_LONG": "Sultanat d'Oman",
+    "CAPITALE": "Mascate"
+  },
+  "Ouganda": {
+    "NOM_ALPHA": "Ouganda",
+    "CODE": "UGA",
+    "ARTICLE": "l'",
+    "NOM_LONG": "République d'Ouganda",
+    "CAPITALE": "Kampala"
+  },
+  "Ouzbékistan": {
+    "NOM_ALPHA": "Ouzbékistan",
+    "CODE": "UZB",
+    "ARTICLE": "l'",
+    "NOM_LONG": "République d'Ouzbékistan",
+    "CAPITALE": "Tachkent"
+  },
+  "Pakistan": {
+    "NOM_ALPHA": "Pakistan",
+    "CODE": "PAK",
+    "ARTICLE": "le",
+    "NOM_LONG": "République islamique du Pakistan",
+    "CAPITALE": "Islamabad"
+  },
+  "Palaos": {
+    "NOM_ALPHA": "Palaos",
+    "CODE": "PLW",
+    "ARTICLE": "les",
+    "NOM_LONG": "République des Palaos",
+    "CAPITALE": "Melekeok"
+  },
+  "Panama": {
+    "NOM_ALPHA": "Panama",
+    "CODE": "PAN",
+    "ARTICLE": "le",
+    "NOM_LONG": "République du Panama",
+    "CAPITALE": "Panama"
+  },
+  "Papouasie-Nouvelle-Guinée": {
+    "NOM_ALPHA": "Papouasie-Nouvelle-Guinée",
+    "CODE": "PNG",
+    "ARTICLE": "la",
+    "NOM_LONG": "État indépendant de Papouasie-Nouvelle-Guinée",
+    "CAPITALE": "Port Moresby"
+  },
+  "Paraguay": {
+    "NOM_ALPHA": "Paraguay",
+    "CODE": "PRY",
+    "ARTICLE": "le",
+    "NOM_LONG": "République du Paraguay",
+    "CAPITALE": "Assomption (Asuncion)"
+  },
+  "Pays-Bas": {
+    "NOM_ALPHA": "Pays-Bas",
+    "CODE": "NLD",
+    "ARTICLE": "les",
+    "NOM_LONG": "Royaume des Pays-Bas",
+    "CAPITALE": "Amsterdam"
+  },
+  "Pérou": {
+    "NOM_ALPHA": "Pérou",
+    "CODE": "PER",
+    "ARTICLE": "le",
+    "NOM_LONG": "République du Pérou",
+    "CAPITALE": "Lima"
+  },
+  "Philippines": {
+    "NOM_ALPHA": "Philippines",
+    "CODE": "PHL",
+    "ARTICLE": "les",
+    "NOM_LONG": "République des Philippines",
+    "CAPITALE": "Manille"
+  },
+  "Pologne": {
+    "NOM_ALPHA": "Pologne",
+    "CODE": "POL",
+    "ARTICLE": "la",
+    "NOM_LONG": "République de Pologne",
+    "CAPITALE": "Varsovie"
+  },
+  "Portugal": {
+    "NOM_ALPHA": "Portugal",
+    "CODE": "PRT",
+    "ARTICLE": "le",
+    "NOM_LONG": "République portugaise",
+    "CAPITALE": "Lisbonne"
+  },
+  "Qatar": {
+    "NOM_ALPHA": "Qatar",
+    "CODE": "QAT",
+    "ARTICLE": "le",
+    "NOM_LONG": "État du Qatar",
+    "CAPITALE": "Doha"
+  },
+  "Roumanie": {
+    "NOM_ALPHA": "Roumanie",
+    "CODE": "ROU",
+    "ARTICLE": "la",
+    "NOM_LONG": "Roumanie",
+    "CAPITALE": "Bucarest"
+  },
+  "Royaume-Uni": {
+    "NOM_ALPHA": "Royaume-Uni",
+    "CODE": "GBR",
+    "ARTICLE": "le",
+    "NOM_LONG": "Royaume-Uni de Grande-Bretagne et d'Irlande du Nord",
+    "CAPITALE": "Londres"
+  },
+  "Russie": {
+    "NOM_ALPHA": "Russie",
+    "CODE": "RUS",
+    "ARTICLE": "la",
+    "NOM_LONG": "Fédération de Russie",
+    "CAPITALE": "Moscou"
+  },
+  "Rwanda": {
+    "NOM_ALPHA": "Rwanda",
+    "CODE": "RWA",
+    "ARTICLE": "le",
+    "NOM_LONG": "République du Rwanda",
+    "CAPITALE": "Kigali"
+  },
+  "Saint-Christophe-et-Niévés": {
+    "NOM_ALPHA": "Saint-Christophe-et-Niévés",
+    "CODE": "KNA",
+    "ARTICLE": "",
+    "NOM_LONG": "Fédération de Saint-Christophe-et-Niévés",
+    "CAPITALE": "Basseterre"
+  },
+  "Sainte-Lucie": {
+    "NOM_ALPHA": "Sainte-Lucie",
+    "CODE": "LCA",
+    "ARTICLE": "",
+    "NOM_LONG": "Sainte-Lucie",
+    "CAPITALE": "Castries"
+  },
+  "Saint-Marin": {
+    "NOM_ALPHA": "Saint-Marin",
+    "CODE": "SMR",
+    "ARTICLE": "",
+    "NOM_LONG": "République de Saint-Marin",
+    "CAPITALE": "Saint-Marin"
+  },
+  "Saint-Vincent-et-les-Grenadines": {
+    "NOM_ALPHA": "Saint-Vincent-et-les-Grenadines",
+    "CODE": "VCT",
+    "ARTICLE": "",
+    "NOM_LONG": "Saint-Vincent-et-les-Grenadines",
+    "CAPITALE": "Kingstown"
+  },
+  "Salomon": {
+    "NOM_ALPHA": "Salomon",
+    "CODE": "SLB",
+    "ARTICLE": "les",
+    "NOM_LONG": "Éles Salomon",
+    "CAPITALE": "Honiara"
+  },
+  "Salvador": {
+    "NOM_ALPHA": "Salvador",
+    "CODE": "SLV",
+    "ARTICLE": "le",
+    "NOM_LONG": "République du Salvador",
+    "CAPITALE": "San Salvador"
+  },
+  "Samoa": {
+    "NOM_ALPHA": "Samoa",
+    "CODE": "WSM",
+    "ARTICLE": "les",
+    "NOM_LONG": "État indépendant des Samoa",
+    "CAPITALE": "Apia"
+  },
+  "Sao Tomé-et-Principe": {
+    "NOM_ALPHA": "Sao Tomé-et-Principe",
+    "CODE": "STP",
+    "ARTICLE": "",
+    "NOM_LONG": "République démocratique de Sao Tomé-et-Principe",
+    "CAPITALE": "Sao Tomé"
+  },
+  "Sénégal": {
+    "NOM_ALPHA": "Sénégal",
+    "CODE": "SEN",
+    "ARTICLE": "le",
+    "NOM_LONG": "République du Sénégal",
+    "CAPITALE": "Dakar"
+  },
+  "Serbie": {
+    "NOM_ALPHA": "Serbie",
+    "CODE": "SRB",
+    "ARTICLE": "la",
+    "NOM_LONG": "République de Serbie",
+    "CAPITALE": "Belgrade"
+  },
+  "Seychelles": {
+    "NOM_ALPHA": "Seychelles",
+    "CODE": "SYC",
+    "ARTICLE": "les",
+    "NOM_LONG": "République des Seychelles",
+    "CAPITALE": "Victoria"
+  },
+  "Sierra Leone": {
+    "NOM_ALPHA": "Sierra Leone",
+    "CODE": "SLE",
+    "ARTICLE": "la",
+    "NOM_LONG": "République de Sierra Leone",
+    "CAPITALE": "Freetown"
+  },
+  "Singapour": {
+    "NOM_ALPHA": "Singapour",
+    "CODE": "SGP",
+    "ARTICLE": "",
+    "NOM_LONG": "République de Singapour",
+    "CAPITALE": "Singapour"
+  },
+  "Slovaquie": {
+    "NOM_ALPHA": "Slovaquie",
+    "CODE": "SVK",
+    "ARTICLE": "la",
+    "NOM_LONG": "République slovaque",
+    "CAPITALE": "Bratislava"
+  },
+  "Slovénie": {
+    "NOM_ALPHA": "Slovénie",
+    "CODE": "SVN",
+    "ARTICLE": "la",
+    "NOM_LONG": "République de Slovénie",
+    "CAPITALE": "Ljubljana"
+  },
+  "Somalie": {
+    "NOM_ALPHA": "Somalie",
+    "CODE": "SOM",
+    "ARTICLE": "la",
+    "NOM_LONG": "République fédérale de Somalie",
+    "CAPITALE": "Mogadiscio"
+  },
+  "Soudan": {
+    "NOM_ALPHA": "Soudan",
+    "CODE": "SDN",
+    "ARTICLE": "le",
+    "NOM_LONG": "République du Soudan",
+    "CAPITALE": "Khartoum"
+  },
+  "Soudan du Sud": {
+    "NOM_ALPHA": "Soudan du Sud",
+    "CODE": "SDS",
+    "ARTICLE": "le",
+    "NOM_LONG": "République du Soudan du Sud",
+    "CAPITALE": "Djouba"
+  },
+  "Sri Lanka": {
+    "NOM_ALPHA": "Sri Lanka",
+    "CODE": "LKA",
+    "ARTICLE": "le",
+    "NOM_LONG": "République démocratique socialiste du Sri Lanka",
+    "CAPITALE": "Sri Jayewardenepura-Kotte"
+  },
+  "Suéde": {
+    "NOM_ALPHA": "Suéde",
+    "CODE": "SWE",
+    "ARTICLE": "la",
+    "NOM_LONG": "Royaume de Suéde",
+    "CAPITALE": "Stockholm"
+  },
+  "Suisse": {
+    "NOM_ALPHA": "Suisse",
+    "CODE": "CHE",
+    "ARTICLE": "la",
+    "NOM_LONG": "Confédération suisse",
+    "CAPITALE": "Berne"
+  },
+  "Suriname": {
+    "NOM_ALPHA": "Suriname",
+    "CODE": "SUR",
+    "ARTICLE": "le",
+    "NOM_LONG": "République du Suriname",
+    "CAPITALE": "Paramaribo"
+  },
+  "Syrie": {
+    "NOM_ALPHA": "Syrie",
+    "CODE": "SYR",
+    "ARTICLE": "la",
+    "NOM_LONG": "République arabe syrienne",
+    "CAPITALE": "Damas"
+  },
+  "Tadjikistan": {
+    "NOM_ALPHA": "Tadjikistan",
+    "CODE": "TJK",
+    "ARTICLE": "le",
+    "NOM_LONG": "République du Tadjikistan",
+    "CAPITALE": "Douchanbé"
+  },
+  "Tanzanie": {
+    "NOM_ALPHA": "Tanzanie",
+    "CODE": "TZA",
+    "ARTICLE": "la",
+    "NOM_LONG": "République unie de Tanzanie",
+    "CAPITALE": "Dodoma"
+  },
+  "Tchad": {
+    "NOM_ALPHA": "Tchad",
+    "CODE": "TCD",
+    "ARTICLE": "le",
+    "NOM_LONG": "République du Tchad",
+    "CAPITALE": "Ndjamena"
+  },
+  "Tchéquie": {
+    "NOM_ALPHA": "Tchéquie",
+    "CODE": "CZE",
+    "ARTICLE": "la",
+    "NOM_LONG": "République tchéque",
+    "CAPITALE": "Prague"
+  },
+  "Thaélande": {
+    "NOM_ALPHA": "Thaélande",
+    "CODE": "THA",
+    "ARTICLE": "la",
+    "NOM_LONG": "Royaume de Thaélande",
+    "CAPITALE": "Bangkok"
+  },
+  "Timor oriental": {
+    "NOM_ALPHA": "Timor oriental",
+    "CODE": "TLS",
+    "ARTICLE": "le",
+    "NOM_LONG": "République démocratique du Timor oriental",
+    "CAPITALE": "Dili"
+  },
+  "Togo": {
+    "NOM_ALPHA": "Togo",
+    "CODE": "TGO",
+    "ARTICLE": "le",
+    "NOM_LONG": "République togolaise",
+    "CAPITALE": "Lomé"
+  },
+  "Tonga": {
+    "NOM_ALPHA": "Tonga",
+    "CODE": "TON",
+    "ARTICLE": "les",
+    "NOM_LONG": "Royaume des Tonga",
+    "CAPITALE": "Nuku'alofa"
+  },
+  "Trinité-et-Tobago": {
+    "NOM_ALPHA": "Trinité-et-Tobago",
+    "CODE": "TTO",
+    "ARTICLE": "la",
+    "NOM_LONG": "République de Trinité-et-Tobago",
+    "CAPITALE": "Port-d'Espagne (Port of Spain)"
+  },
+  "Tunisie": {
+    "NOM_ALPHA": "Tunisie",
+    "CODE": "TUN",
+    "ARTICLE": "la",
+    "NOM_LONG": "République tunisienne",
+    "CAPITALE": "Tunis"
+  },
+  "Turkménistan": {
+    "NOM_ALPHA": "Turkménistan",
+    "CODE": "TKM",
+    "ARTICLE": "le",
+    "NOM_LONG": "Turkménistan",
+    "CAPITALE": "Achgabat"
+  },
+  "Turquie": {
+    "NOM_ALPHA": "Turquie",
+    "CODE": "TUR",
+    "ARTICLE": "la",
+    "NOM_LONG": "République de Turquie",
+    "CAPITALE": "Ankara"
+  },
+  "Tuvalu": {
+    "NOM_ALPHA": "Tuvalu",
+    "CODE": "TUV",
+    "ARTICLE": "les",
+    "NOM_LONG": "Tuvalu",
+    "CAPITALE": "Vaiaku"
+  },
+  "Ukraine": {
+    "NOM_ALPHA": "Ukraine",
+    "CODE": "UKR",
+    "ARTICLE": "l'",
+    "NOM_LONG": "Ukraine",
+    "CAPITALE": "Kiev"
+  },
+  "Uruguay": {
+    "NOM_ALPHA": "Uruguay",
+    "CODE": "URY",
+    "ARTICLE": "l'",
+    "NOM_LONG": "République orientale de l'Uruguay",
+    "CAPITALE": "Montévidéo"
+  },
+  "Vanuatu": {
+    "NOM_ALPHA": "Vanuatu",
+    "CODE": "VUT",
+    "ARTICLE": "le",
+    "NOM_LONG": "République du Vanuatu",
+    "CAPITALE": "Port-Vila"
+  },
+  "Vatican": {
+    "NOM_ALPHA": "Vatican",
+    "CODE": "VAT",
+    "ARTICLE": "le",
+    "NOM_LONG": "Vatican (Saint-Siége)",
+    "CAPITALE": ""
+  },
+  "Vénézuéla": {
+    "NOM_ALPHA": "Vénézuéla",
+    "CODE": "VEN",
+    "ARTICLE": "le",
+    "NOM_LONG": "République bolivarienne du Vénézuéla",
+    "CAPITALE": "Caracas"
+  },
+  "Vietnam": {
+    "NOM_ALPHA": "Vietnam",
+    "CODE": "VNM",
+    "ARTICLE": "le",
+    "NOM_LONG": "République socialiste du Vietnam",
+    "CAPITALE": "Hanoé"
+  },
+  "Yémen": {
+    "NOM_ALPHA": "Yémen",
+    "CODE": "YEM",
+    "ARTICLE": "le",
+    "NOM_LONG": "République du Yémen",
+    "CAPITALE": "Sanaa"
+  },
+  "Zambie": {
+    "NOM_ALPHA": "Zambie",
+    "CODE": "ZMB",
+    "ARTICLE": "la",
+    "NOM_LONG": "République de Zambie",
+    "CAPITALE": "Lusaka"
+  },
+  "Zimbabwé": {
+    "NOM_ALPHA": "Zimbabwé",
+    "CODE": "ZWE",
+    "ARTICLE": "le",
+    "NOM_LONG": "République du Zimbabwé",
+    "CAPITALE": "Hararé"
+  }
+}

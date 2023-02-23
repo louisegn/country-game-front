@@ -1,0 +1,23 @@
+.container {
+  background-image: url("../../assets/img/photo-1473163928189-364b2c4e1135.avif");
+  //   background-color: #f5f5f4;
+  height: 200px;
+  //   border-bottom: solid black 2px;
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  button {
+    height: 40px;
+    width: 180px;
+    border-radius: 10px;
+    border: none;
+    // font-style: none;
+    p {
+      font-family: "Roboto Slab", sans-serif;
+    }
+  }
+  button:hover {
+    background-color: #e7e5e4;
+    cursor: pointer;
+  }
+}
